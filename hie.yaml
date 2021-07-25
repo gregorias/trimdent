@@ -1,0 +1,10 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "trimdent:lib"
+
+    - path: "./doctest"
+      component: "trimdent:test:doctest"
+
+    - path: "./test"
+      component: "trimdent:test:trimdent-test"
