@@ -59,7 +59,6 @@ dependencies:
 # no-type-defaults, this is dangerous, but in terms of convenience it's so
 # useful to use ExtendedDefaultRules that I keep it.
 ghc-options:
-  - -Werror
   - -Wall
   - -Wcompat
   - -Wmissing-deriving-strategies
