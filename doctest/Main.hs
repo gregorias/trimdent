@@ -1,4 +1,4 @@
-module DocTest (
+module Main (
   main,
 ) where
 

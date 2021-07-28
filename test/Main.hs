@@ -1,4 +1,4 @@
-module Spec (main) where
+module Main (main) where
 
 import Data.Char (isSpace)
 import Data.List (isInfixOf)

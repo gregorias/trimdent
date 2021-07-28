@@ -1,7 +1,6 @@
 { roots =
     [
-    "^Spec.main$"
-    , "^DocTest.main$"
+    "^Main.main$"
     , "^Paths_.*"
     ]
 , type-class-roots = True
