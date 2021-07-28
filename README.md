@@ -4,8 +4,8 @@
 
 ```haskell
 >>> import Text.RawString.QQ (r)
->>> trimdent [r|func add(x int, y int) int {\n\
-                  return x + y\n\
+>>> trimdent [r|func add(x int, y int) int {
+                  return x + y
                 }
              |]
 "func add(x int, y int) int {\n\
