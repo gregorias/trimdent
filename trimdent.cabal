@@ -6,7 +6,9 @@ cabal-version: 1.12
 
 name:           trimdent
 version:        0.1.0.0
+synopsis:       A utility for neat multiline string trimming
 description:    Please see the README on GitHub at <https://github.com/gregorias/trimdent#readme>
+category:       String
 homepage:       https://github.com/gregorias/trimdent#readme
 bug-reports:    https://github.com/gregorias/trimdent/issues
 author:         Grzegorz Milka
