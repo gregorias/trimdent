@@ -1,6 +1,6 @@
 # trimdent
 
-`Trimdent` is a simple library for for smartly trimming and unindenting strings.
+`Trimdent` is a simple library for smartly trimming and unindenting strings.
 
 ```haskell
 >>> import Text.RawString.QQ (r)
