@@ -64,5 +64,7 @@ test-suite trimdent-test
   build-depends:
       base >=4.13 && <5
     , hspec
+    , hspec-expectations-pretty-diff
+    , raw-strings-qq
     , trimdent
   default-language: Haskell2010

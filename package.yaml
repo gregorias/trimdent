@@ -90,7 +90,9 @@ tests:
     - -Wunused-packages
     dependencies:
     - hspec
+    - hspec-expectations-pretty-diff
     - trimdent
+    - raw-strings-qq
 
   doctest:
     main:                DocTest.hs
